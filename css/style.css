@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: #F6F8F9;
+}
+
+
+#header_logo {
+    background-color: white;
+}
