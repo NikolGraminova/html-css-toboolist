@@ -42,7 +42,6 @@ main {
     background-color: #ffffff;
     font-size: 12px;
     border: 1px solid grey;
-    color: black;
     width: auto;
     display: inline-block;
     padding: 5px 10px;
@@ -62,7 +61,7 @@ main {
 }
 
 .section_class {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
     padding-top: 30px;
 }
@@ -70,7 +69,6 @@ main {
 .task_class {
     font-size: 10px;
     margin-top: 10px;
-
 }
 
 .green_check {
