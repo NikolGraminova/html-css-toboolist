@@ -2,10 +2,44 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
     background-color: #F6F8F9;
 }
 
-
 #header_logo {
     background-color: white;
+}
+
+#main_container {
+    background-color: white;
+    width: 70%;
+    margin: 40px auto;
+}
+
+#task_button {
+    background-color: #14AAF5;
+    font-size: 12px;
+    width: auto;
+    display: inline-block;
+    padding: 5px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    border-radius: 10%;
+}
+
+#section_button {
+    background-color: #ffffff;
+    font-size: 12px;
+    border: 1px solid grey;
+    width: auto;
+    display: inline-block;
+    padding: 5px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    border-radius: 10%;
 }
